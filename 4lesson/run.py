@@ -4,7 +4,7 @@ from aiogram.types import Message
 
 import keyboards as kb
 
-bot = Bot(token='6641089789:AAFV5I-IqkUQOFWTQtBDGI8qOyjLxd0jYuo')
+bot = Bot(token='')
 dp = Dispatcher()
 
 
