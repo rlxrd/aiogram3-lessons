@@ -1,2 +1,4 @@
 /.venv
 */__pycache__
+8lesson/app/__pycache__/handlers.cpython-311.pyc
+8lesson/app/__pycache__/keyboards.cpython-311.pyc
